@@ -19,7 +19,8 @@
 
 ## :beginner: About
 
-Named after one of my favorite videogames 😄 . **Metroexodus** is a linux CLI app that helps you find & visualize the Shortest Path between Delhi Metro Stations and calculate appropriate **fares**, it uses Graph Data Structure & **Dijkstra**'s Algorithm and vizualized by help of **graphviz**
+Named after one of my favorite videogames 😄 . 
+**Metroexodus** is a linux **CLI** app that helps you find & visualize the Shortest Path between Delhi Metro Stations and calculate appropriate **fares**, it uses Graph Data Structure & **Dijkstra**'s Algorithm and vizualized by help of **graphviz**
 
 ## :zap: Usage
 
